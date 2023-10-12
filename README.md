@@ -22,4 +22,4 @@ This script is provided under an open-source license.
 
 ## Disclaimer
 
-Use this script responsibly and in accordance with the terms of service of the Boo.world website. The author of this script is not responsible for any misuse or violation of website terms.
+The author of this script is not responsible for any misuse or violation of website terms.
