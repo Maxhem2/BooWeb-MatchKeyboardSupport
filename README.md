@@ -1,6 +1,6 @@
 # Auto Click 'Pass' and 'Like' Buttons on Boo.world
 
-This Tampermonkey script enables you to use the 'x' key for disliking profiles and the 'd' key for liking profiles on the Boo.world website. It automatically clicks the 'Pass' button when you press 'x' and the 'Like' button when you press 'd, and it continues clicking until something in the DOM changes.
+This Tampermonkey script enables you to use the 'x' key for disliking profiles and the 'd' key for liking profiles on the Boo.world website. It automatically clicks the 'Pass' button when you press 'x' and the 'Like' button when you press 'd'.
 
 ## Installation
 
