@@ -1,25 +1,39 @@
-# Auto Click 'Pass' and 'Like' Buttons on Boo.world
+# Boo World Audio Message Recorder
 
-This Tampermonkey script enables you to use the 'x' key for disliking profiles and the 'd' key for liking profiles on the Boo.world website. It automatically clicks the 'Pass' button when you press 'x' and the 'Like' button when you press 'd'.
+**Author:** Maxhem2
+
+**Version:** 1.0
+
+## Description
+
+This user script enhances your experience on the Boo World website by adding a convenient audio recording button to the chat interface. With this script, you can easily record and send audio messages to your contacts, making your conversations more interactive.
+
+## Features
+
+- Adds a round button with a microphone icon for audio recording.
+- Simple and user-friendly design.
+- Enhances chat functionality on Boo World.
 
 ## Installation
 
-1. Make sure you have the Tampermonkey browser extension installed. You can get it for your browser from the [Tampermonkey website](https://www.tampermonkey.net/).
+1. Install a user script manager for your web browser, such as Tampermonkey or Greasemonkey.
+2. [Click here to install the Boo World Audio Message Recorder script from Greasy Fork](https://greasyfork.org/de/scripts/477639-boo-world-audio-message-recorder).
 
-2. Next click on the link [Script installation link](https://greasyfork.org/de/scripts/477250-auto-click-pass-and-like-buttons-on-boo-world).
+## How to Use
 
-3. There you now click on the 'Install' button.
+1. Open a chat on Boo World.
+2. Click the microphone button to start recording your audio message.
+3. Click the button again to stop recording.
+4. Your audio message is sent.
 
-## Usage
+## Issues and Contributions
 
-- Visit the Boo.world website and navigate to the "Match" section.
-
-- Press the 'x' key to pass a profile or the 'd' key to 'Like' it.
+If you encounter any issues or have suggestions for improvements, please open an issue.
 
 ## License
 
-This script is provided under an open-source license.
+This user script is provided under the [MIT License](LICENSE). Feel free to modify and distribute it as needed.
 
-## Disclaimer
+---
 
-The author of this script is not responsible for any misuse or violation of website terms.
+Enjoy sending audio messages on Boo World!
